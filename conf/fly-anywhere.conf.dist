@@ -1,0 +1,14 @@
+[worldserver]
+
+#
+#   FlyAnywhere.Enabled
+#
+#   Description: Enable or Disable flying in Eastern Kingdoms, Kalimdor (old world) and BC starter zones for all players with Expert Riding.
+#   Example:
+#       true (Flying is enabled in old world)
+#       false (No flying is enable in old world, standard Blizz-like behaviour)
+#
+#   Default: true
+#
+
+FlyAnywhere.Enabled = true
