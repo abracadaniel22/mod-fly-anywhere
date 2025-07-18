@@ -43,7 +43,10 @@ You can disable flying in old world while keeping the mod installed by setting `
 
 ## Screenshots
 
-TODO
+<img width="1920" height="1080" alt="00" src="https://github.com/user-attachments/assets/8e1983f3-032c-49d6-81ce-de6ab02352ad" />
+
+<img width="1920" height="1080" alt="01" src="https://github.com/user-attachments/assets/fbe33541-3cdc-4017-bdfa-35c14970dbd4" />
+
 
 ## Extra info
 
